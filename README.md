@@ -43,7 +43,7 @@
 
 ## :dart: About
 
-This project was made for a test in College.
+This project was made for a test in College. I hosted it on [https://medkit-raphael.vercel.app/](https://medkit-raphael.vercel.app/)
 
 ## :rocket: Technologies
 
