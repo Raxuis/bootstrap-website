@@ -4,26 +4,32 @@
   padding-right: 30px;
   font-size: 10px !important;
 }
+
 #doctors {
-  background-image: url("/img/doctors.jpeg");
+  background-image: url("img/doctors.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 300px 0;
   background-attachment: fixed;
 }
+
 .button-icons {
   padding-right: 5px;
 }
+
 #cards {
   margin-top: -175px;
 }
+
 .buttons {
   width: 100%;
   gap: 20px;
 }
+
 .button {
   width: 180px;
 }
+
 .learn {
   display: inline-block;
   justify-content: center;
@@ -33,6 +39,7 @@
   -webkit-transition: all ease-in-out 300ms;
   transition: all ease-in-out 300ms;
 }
+
 .learn:hover {
   box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.2);
   color: #fff;
@@ -43,55 +50,70 @@
 .card {
   padding-top: 5px;
 }
+
 #cards img {
   width: 80px;
   height: 80px;
 }
+
 #button_white {
   padding-bottom: 15px;
 }
+
 #clinic {
   padding-top: 80px;
   padding-bottom: 100px;
 }
+
 #medical-title {
   font-size: 3em;
 }
+
 #doctor_pic {
   padding-left: 30px;
 }
+
 #blue-back-1 {
   border-radius: 0px 0px 0px 125px;
   height: 475px;
 }
+
 #rates {
   background-color: #f0f6fe;
   padding: 60px 0;
 }
+
 .navbar-brand p {
   padding-left: 5px;
 }
+
 .navbar-nav:hover a {
   opacity: 0.3;
 }
+
 .navbar-nav:hover a:hover {
   opacity: 1;
 }
+
 #provide {
   padding-top: 80px;
 }
+
 #provide article {
   -webkit-box-shadow: 9px 12px 17px -13px rgba(0, 0, 255, 1);
   -moz-box-shadow: 9px 12px 17px -13px rgba(0, 0, 255, 1);
   box-shadow: 9px 12px 17px -13px rgba(0, 0, 0, 1);
   background-color: #f8fcfe;
 }
+
 #provide h2 {
   font-size: 3em;
 }
+
 #provide p {
   font-size: 1em;
 }
+
 hr {
   border: none;
   border-top: 3px double #333;
@@ -100,53 +122,66 @@ hr {
   text-align: center;
   height: 5px;
 }
+
 #medication {
   padding-top: 80px;
   padding-bottom: 120px;
 }
+
 #appointment {
   padding-top: 40px;
   background-color: #f8fcfe;
 }
+
 #form {
   margin-top: -100px !important;
 }
+
 #form .card {
   padding: 0 30px;
 }
+
 .message {
   padding-bottom: 15%;
 }
+
 #partners {
   padding: 40px 0;
   background-color: #f8fcfe;
 }
+
 #connected {
   background-color: #eff6ff;
   border-radius: 2px;
 }
+
 #appointment .btn,
 #links .btn {
   border-radius: 2px;
   box-shadow: none;
 }
+
 #provide hr {
   margin-top: -10px !important;
 }
+
 #opening button:hover {
   color: rgba(13, 110, 253, 1);
 }
+
 #partners-img img {
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   filter: grayscale(100%);
   transition: all 0.5s ease;
 }
+
 #partners-img:hover img:hover {
   -webkit-filter: grayscale(0%);
   -moz-filter: grayscale(0%);
   filter: grayscale(0%);
 }
+
 @media screen and (max-width: 1024px) {
   #form {
     margin-top: 0 !important;
